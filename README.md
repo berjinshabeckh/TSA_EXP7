@@ -1,7 +1,8 @@
-# Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date:15/10/24
+# Ex.No: 07 AUTO REGRESSIVE MODEL
 
-
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
+## Date:28/09/2024
 
 ### AIM:
 To Implementat an Auto Regressive Model using Python
